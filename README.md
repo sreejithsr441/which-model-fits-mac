@@ -20,7 +20,7 @@ No Python, no installs beyond Ollama. Plain shell scripts you can read in a minu
 Open **Terminal** and paste these one at a time:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB/ring-zero-examples.git
+git clone https://github.com/sreejithsr441/which-model-fits-mac.git
 cd ring-zero-examples/which-model-fits-mac
 ./fit.sh
 ```
